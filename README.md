@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Spidy</h1>
+<h1 align="center">Hi 👋, I'm Jils</h1>
 <h3 align="center">A passionate developer and learner</h3>
 
 <p align="center">
@@ -25,15 +25,7 @@
 
 ---
 
-### 📊 GitHub Stats:
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=spidy123&show_icons=true&theme=tokyonight" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=spidy123&theme=tokyonight" />
-</p>
-
----
 
 ### 🧠 Fun Projects:
 - 🚀 Sculpt AI – AI-powered animation generator  
@@ -45,6 +37,6 @@
 ### 🤝 Connect with me:
 
 <p>
-  <a href="https://linkedin.com/in/spidy123"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
-  <a href="mailto:spidy@email.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail" /></a>
+  <a href="https://www.linkedin.com/in/jils-patel-8a0357318/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
+  <a href="jilspatel21@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail" /></a>
 </p>
