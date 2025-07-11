@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jils</h1>
 <h3 align="center">A passionate developer exploring AI, backend, and the open-source world</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Jils31&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
 
 - 🔭 I’m currently working on **Onboard AI** – an AI-powered onboarding assistant  
 - 🌱 I’m diving deep into **Backend Development**, **AI tools**, and **LLM internals**  
@@ -22,7 +19,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" background="white" width="40" />
+<span style="display: inline-block; background: white; padding: 4px; border-radius: 6px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" />
+</span>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" />
