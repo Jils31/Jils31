@@ -1,42 +1,66 @@
 <h1 align="center">Hi 👋, I'm Jils</h1>
-<h3 align="center">A passionate developer and learner</h3>
+<h3 align="center">A passionate developer exploring AI, backend, and the open-source world</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=spidy123&label=Profile%20views&color=0e75b6&style=flat" alt="spidy123" />
+  <img src="https://komarev.com/ghpvc/?username=spidy123&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-- 🔭 I’m currently working on **Sculpt AI**  
-- 🌱 I’m currently learning **AI, React, and Golang**  
-- 👯 I’m looking to collaborate on **open-source**  
-- 💬 Ask me about **Java, APIs, SQL, React**  
-- 📫 How to reach me: **spidy@email.com**  
+- 🔭 I’m currently working on **Onboard AI** – an AI-powered onboarding assistant  
+- 🌱 I’m diving deep into **Backend Development**, **AI tools**, and **LLM internals**  
+- 👯 I love collaborating on **open-source**, research-focused tools, and smart dev utilities  
+- 💬 Ask me about **React, Node.js, MongoDB, Golang, Java, SQL, or anything full-stack**  
+- 📫 Reach me at: **jilspatel21@gmail.com**  
 
 ---
 
-### 🛠️ Languages and Tools:
+### 🛠️ Languages and Tools I Use:
 
-<p>
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" height="28" />
 </p>
 
 ---
 
+### 🚀 Projects I'm Proud Of:
 
-
-### 🧠 Fun Projects:
-- 🚀 Sculpt AI – AI-powered animation generator  
-- 📊 Crypto Tracker – Real-time portfolio and charts  
-- 🧑‍💼 CoFounder Connect – Startup team finder  
+- 🧠 **Onboard AI** – Repository analysis + onboarding assistant powered by LLMs  
+- 🎨 **Sculpt AI** – AI-powered animation scene builder from natural language  
+- 🤝 **CoFounder Connect** – Match founders and devs for idea execution  
 
 ---
 
-### 🤝 Connect with me:
+### 📊 GitHub Stats:
 
-<p>
-  <a href="https://www.linkedin.com/in/jils-patel-8a0357318/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
-  <a href="jilspatel21@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail" /></a>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Jils31&show_icons=true&theme=tokyonight" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jils31&theme=tokyonight" />
+</p>
+
+---
+
+### 🤝 Let's Connect!
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/jils-patel-8a0357318/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:jilspatel21@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail" />
+  </a>
 </p>
