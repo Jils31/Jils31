@@ -39,6 +39,13 @@
 
 ---
 
+## 📊 My Contribution Stats
+
+![Metrics](https://raw.githubusercontent.com/Jils31/Jils31/main/metrics.svg)
+
+---
+
+
 ### 🤝 Let's Connect!
 
 <p align="left">
